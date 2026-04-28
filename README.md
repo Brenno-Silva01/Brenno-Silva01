@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software pela UnB (Universidade de Brasília);<br>
 Técnico em Informatica pela ETB (Escola Técnica de Brasília).<br>
-Interesse em Backand, modelagem e planejamento de software.<br>
+Interesse em Backend, modelagem e planejamento de software.<br>
 Sempre buscando aprender e evoluir.
 
 ---
